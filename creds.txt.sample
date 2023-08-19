@@ -1,0 +1,80 @@
+[doap.com]
+user = dave
+doap.com_consumer_key = yourkey
+doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[sanramon.doap.com]
+user = dave
+sanramon.doap.com_consumer_key = yourkey
+sanramon.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[danville.doap.com]
+user = dave
+danville.doap.com_consumer_key = yourkey
+danville.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[alamo.doap.com]
+user = dave
+alamo.doap.com_consumer_key = yourkey
+alamo.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[burlingame.doap.com]
+user = dave
+burlingame.doap.com_consumer_key = yourkey 
+burlingame.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[campbell.doap.com]
+user = dave
+campbell.doap.com_consumer_key = yourkey
+campbell.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[castrovalley.doap.com]
+user = dave
+castrovalley.doap.com_consumer_key = yourkey
+castrovalley.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[concord.doap.com]
+user = dave
+concord.doap.com_consumer_key = yourkey
+concord.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[dublin.doap.com]
+user = dave
+dublin.doap.com_consumer_key = yourkey
+dublin.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[hillsborough.doap.com]
+user = dave
+hillsborough.doap.com_consumer_key = yourkey
+hillsborough.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[lafayette.doap.com]
+user = dave
+lafayette.doap.com_consumer_key = yourkey
+lafayette.doap.com_consumer_secret = yoursecret 
+openai.api_key = youropenaikey
+[livermore.doap.com]
+user = dave
+livermore.doap.com_consumer_key = yourkey
+livermore.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[orinda.doap.com]
+user = dave
+orinda.doap.com_consumer_key = yourkey
+orinda.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[pittsburg.doap.com]
+user = dave
+pittsburg.doap.com_consumer_key = yourkey
+pittsburg.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[pleasanthill.doap.com]
+user = dave
+pleasanthill.doap.com_consumer_key = yourkey
+pleasanthill.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
+[walnutcreek.doap.com]
+user = dave
+walnutcreek.doap.com_consumer_key = yourkey
+walnutcreek.doap.com_consumer_secret = yoursecret
+openai.api_key = youropenaikey
